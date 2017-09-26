@@ -5,8 +5,7 @@ Making a conflict
 
 Making some changes
 
-<<<<<<< HEAD
-making a change az master
-=======
+making a change as master
+
 hello again
->>>>>>> develop
+
